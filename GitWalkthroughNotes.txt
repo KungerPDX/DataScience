@@ -11,7 +11,7 @@
 *  <create file>
 *  git add <file>
 *  git commit -m "Added file"
-*  git push (or git push remote origin?)
+*  git push --set-upstream origin master
 
 
 open port 22 or 443
