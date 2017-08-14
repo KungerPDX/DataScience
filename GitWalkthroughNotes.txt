@@ -1,5 +1,6 @@
 *  Install Git Bash locally
-*  Open bash, make sure in home
+*  Ensure port 22 or 443 are open
+*  Open bash, make sure in home directory
 *  mkdir datascience
 *  cd datascience
 *  git init
@@ -12,9 +13,10 @@
 *  git add <file>
 *  git commit -m "Added file"
 *  git push --set-upstream origin master
+   *  Subsequently, just git push
 
 
-open port 22 or 443
+
 
 
 
