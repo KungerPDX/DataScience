@@ -1,0 +1,20 @@
+*  Install Git Bash locally
+*  Open bash, make sure in home
+*  mkdir datascience
+*  cd datascience
+*  git init
+*  git config --global user.name "KungerPDX"
+*  git config --global user.email "kunger@we-worldwide.com"
+*  git config --list
+*  git remote add origin https://github.com/KungerPDX/datacience.git
+*  git pull origin master
+*  <create file>
+*  git add <file>
+*  git commit -m "Added file"
+*  git push (or git push remote origin?)
+
+
+open port 22 or 443
+
+
+
